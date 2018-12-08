@@ -6,3 +6,6 @@ http://127.0.0.1:8000/admin/
 username: ulbike
 email: ulbike@example.com
 password: ulbikezhanysbek
+
+
+pythonanywhere:  http://ulbike.pythonanywhere.com/admin
